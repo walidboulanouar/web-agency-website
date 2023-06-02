@@ -414,13 +414,13 @@ button:focus {
 }
 
 .slick-prev {
-  background: url("https://cdn.kesency.com/images/icon/slick-arrow-left.png") center center no-repeat;
+  background: url("https://cdn.WebDevAgency.com/images/icon/slick-arrow-left.png") center center no-repeat;
   left: auto;
   right: 60px;
 }
 
 .slick-next {
-  background: url("https://cdn.kesency.com/images/icon/slick-arrow-right.png") center center no-repeat;
+  background: url("https://cdn.WebDevAgency.com/images/icon/slick-arrow-right.png") center center no-repeat;
   left: auto;
   right: 0;
 }
@@ -432,12 +432,12 @@ button:focus {
 
 .slick-prev:hover,
 .slick-prev:focus {
-  background: url("https://cdn.kesency.com/images/icon/slick-arrow-left.png") center center no-repeat;
+  background: url("https://cdn.WebDevAgency.com/images/icon/slick-arrow-left.png") center center no-repeat;
 }
 
 .slick-next:hover,
 .slick-next:focus {
-  background: url("https://cdn.kesency.com/images/icon/slick-arrow-right.png") center center no-repeat;
+  background: url("https://cdn.WebDevAgency.com/images/icon/slick-arrow-right.png") center center no-repeat;
 }
 
 .slick-prev:hover,
@@ -1071,7 +1071,7 @@ textarea:focus {
 }
 
 .small-agency-home-header-bg::after {
-  background-image: url("https://cdn.kesency.com/images/banner/banner-round-img.svg");
+  background-image: url("https://cdn.WebDevAgency.com/images/banner/banner-round-img.svg");
   background-size: cover;
   background-position: calc(100% - 120px) 394px;
   top: -46%;
@@ -1495,13 +1495,13 @@ h1 {
 .case-study-slider .slick-prev,
 .case-study-slider .slick-prev:hover,
 .case-study-slider .slick-prev:focus {
-  background: url("https://cdn.kesency.com/images/icon/slick-arrow-left-2.png") center center no-repeat;
+  background: url("https://cdn.WebDevAgency.com/images/icon/slick-arrow-left-2.png") center center no-repeat;
 }
 
 .case-study-slider .slick-next,
 .case-study-slider .slick-next:hover,
 .case-study-slider .slick-next:focus {
-  background: url("https://cdn.kesency.com/images/icon/slick-arrow-right-2.png") center center no-repeat;
+  background: url("https://cdn.WebDevAgency.com/images/icon/slick-arrow-right-2.png") center center no-repeat;
 }
 
 .case-study-content {
@@ -1667,7 +1667,7 @@ h1 {
 ------------------ */
 /* -- Pricing starts -- */
 .pricing {
-  background: url("https://cdn.kesency.com/images/pricing-bg-shape.svg") center calc(100% + 420px) no-repeat;
+  background: url("https://cdn.WebDevAgency.com/images/pricing-bg-shape.svg") center calc(100% + 420px) no-repeat;
   background-size: 100% auto;
 }
 
@@ -2376,7 +2376,7 @@ h1 {
   border-top-right-radius: 350px;
   border-bottom-right-radius: 350px;
   background-color: #fff;
-  background-image: url("https://cdn.kesency.com/images/about-img.svg");
+  background-image: url("https://cdn.WebDevAgency.com/images/about-img.svg");
   background-position: center top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2456,11 +2456,11 @@ h1 {
 }
 
 .featured-project-carousel .carousel-control-prev-icon {
-  background: url("https://cdn.kesency.com/images/icon/short-arrow-left.png") center center no-repeat;
+  background: url("https://cdn.WebDevAgency.com/images/icon/short-arrow-left.png") center center no-repeat;
 }
 
 .featured-project-carousel .carousel-control-next-icon {
-  background: url("https://cdn.kesency.com/images/icon/short-arrow-right.png") center center no-repeat;
+  background: url("https://cdn.WebDevAgency.com/images/icon/short-arrow-right.png") center center no-repeat;
 }
 
 .featured-project-modal .custom-btn {
@@ -2671,7 +2671,7 @@ h1 {
 ---------------------- */
 @media screen and (min-width: 1600px) {
   .banner::after {
-    background: #fff url("https://cdn.kesency.com/images/banner/banner-round-img.svg") calc(100% - 308px) 370px no-repeat;
+    background: #fff url("https://cdn.WebDevAgency.com/images/banner/banner-round-img.svg") calc(100% - 308px) 370px no-repeat;
     background-size: 93%;
     top: -46%;
     right: -20%;

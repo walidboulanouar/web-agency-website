@@ -1,9 +1,9 @@
 /**
- * Intellectual property of KESENCY. 
+ * Intellectual property of WebDevAgency. 
  * 
  * 
- * @author KESENCY LLC
- * @link https://kesency.com/
+ * @author WebDevAgency LLC
+ * @link https://WebDevAgency.com/
  * @version 1.0.1
  * @license MIT
  * 

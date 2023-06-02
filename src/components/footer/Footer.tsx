@@ -192,7 +192,7 @@ export default class Footer extends Component {
                     <div className="footer-bottom">
                         <div className="container">
                             <p className="text-center">&copy; 2022-2023. All rights reserved by
-                                <a href="/" target="_blank" rel="noopener"> KESENCY LLC</a></p>
+                                <a href="/" target="_blank" rel="noopener"> WebDevAgency LLC</a></p>
                         </div>
                     </div>
                 </footer>

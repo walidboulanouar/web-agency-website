@@ -51,7 +51,7 @@ export default class WebsiteDesign extends Component {
                                 </div>
 
                                 <div className="col-lg-6 text-lg-right">
-                                    <img src="https://cdn.kesency.com/images/services/web-design.svg" alt="web-design" className="img-fluid" />
+                                    <img src="https://cdn.WebDevAgency.com/images/services/web-design.svg" alt="web-design" className="img-fluid" />
                                 </div>
                             </div>
                         </div>
@@ -89,7 +89,7 @@ export default class WebsiteDesign extends Component {
                                     <div className="tab-pane fade show active" id="process-tab-1" role="tabpanel" aria-labelledby="process-nav-1">
                                         <div className="row no-gutters align-items-center">
                                             <div className="col-lg-5 text-lg-right">
-                                                <img src="https://cdn.kesency.com/images/services/process-tab/web-process/web-process-img-1.svg" alt="process-image1" className="img-fluid" />
+                                                <img src="https://cdn.WebDevAgency.com/images/services/process-tab/web-process/web-process-img-1.svg" alt="process-image1" className="img-fluid" />
                                             </div>
 
                                             <div className="col-lg-6 offset-lg-1 text-center text-lg-left">
@@ -109,7 +109,7 @@ export default class WebsiteDesign extends Component {
                                     <div className="tab-pane fade" id="process-tab-2" role="tabpanel" aria-labelledby="process-nav-2">
                                         <div className="row no-gutters align-items-center">
                                             <div className="col-lg-5 text-lg-right">
-                                                <img src="https://cdn.kesency.com/images/services/process-tab/web-process/web-process-img-2.svg" alt="process-image2" className="img-fluid" />
+                                                <img src="https://cdn.WebDevAgency.com/images/services/process-tab/web-process/web-process-img-2.svg" alt="process-image2" className="img-fluid" />
                                             </div>
 
                                             <div className="col-lg-6 offset-lg-1 text-center text-lg-left">
@@ -131,7 +131,7 @@ export default class WebsiteDesign extends Component {
                                     <div className="tab-pane fade" id="process-tab-3" role="tabpanel" aria-labelledby="process-nav-3">
                                         <div className="row no-gutters align-items-center">
                                             <div className="col-lg-5 text-lg-right">
-                                                <img src="https://cdn.kesency.com/images/services/process-tab/web-process/web-process-img-3.svg" alt="process-image3" className="img-fluid" />
+                                                <img src="https://cdn.WebDevAgency.com/images/services/process-tab/web-process/web-process-img-3.svg" alt="process-image3" className="img-fluid" />
                                             </div>
 
                                             <div className="col-lg-6 offset-lg-1 text-center text-lg-left">
