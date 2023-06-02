@@ -193,7 +193,7 @@ export default class Header extends Component {
                 <nav className="navbar navbar-expand-lg">
                     <div className="container">
                         <Link className="navbar-brand" to="/">
-                            <img src="/logo.png" alt="Brand Logo" className="img-fluid" width="207" height="87"  />
+                            <img src="/logo.png" alt="Brand Logo" className="img-fluid" width="207" height="47"  />
                         </Link>
                         <button className="navbar-toggler" type="button" onClick={this.handleCustomTogglerIcon} data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
                             aria-label="Toggle navigation">
