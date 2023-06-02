@@ -39,7 +39,7 @@ export async function account(authorization: string, name: string): Promise<Acco
     const adresseIP = data.match(REGEX_IP)![0];
 
     try {
-        const register = await fetch("https://api.WebDevAgency.com/login/account", {
+        const register = await fetch("https://api.kesency.com/login/account", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json",

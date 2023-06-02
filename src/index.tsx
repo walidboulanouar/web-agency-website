@@ -1,9 +1,9 @@
 /**
- * Intellectual property of WebDevAgency. 
+ * Intellectual property of . 
  * 
  * 
- * @author WebDevAgency LLC
- * @link https://WebDevAgency.com/
+ * @author  LLC
+ * @link https://agencydev.studio.com/
  * @version 1.0.1
  * @license MIT
  * 

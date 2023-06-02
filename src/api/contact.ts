@@ -56,7 +56,7 @@ export async function contact(fname: string, email: string, phone: string, websi
     const adresseIP = data.match(REGEX_IP)![0];
 
     try {
-        const register = await fetch("https://api.WebDevAgency.com/contact", {
+        const register = await fetch("https://api.kesency.com/contact", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json",

@@ -63,12 +63,12 @@ export default class About extends Component {
                         <div className="container">
                             <div className="row align-items-center">
                                 <div className="col-lg-6">
-                                    <img src="https://cdn.WebDevAgency.com/images/inner-page-about-img.svg" alt="about" className="img-fluid img-round" />
+                                    <img src="https://cdn.kesency.com/images/inner-page-about-img.svg" alt="about" className="img-fluid img-round" />
                                 </div>
 
                                 <div className="col-lg-6">
                                     <h2>We’re Your Partner in Your Success</h2>
-                                    <p>WebDevAgency is a full-service digital agency that helps businesses grow and succeed online.
+                                    <p>kesency is a full-service digital agency that helps businesses grow and succeed online.
                                         We specialize in web design, branding, SEO, PPC, social media marketing, and mobile app development.
                                     </p>
                                     <p>We believe that digital is more than just technology and tools; it's about connecting with

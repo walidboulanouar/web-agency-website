@@ -45,7 +45,7 @@ export default class LegalNotice extends Component {
                     <div className="container">
                         <div className="row legal align-items-center justify-content-around text-center text-lg-left">
                             <div className="col-md-9 col-lg-6 col-xl-5 order-lg-1">
-                                <img src="https://cdn.WebDevAgency.com/images/office/office-1.svg" alt="office-1" className="img-fluid rounded shadow" />
+                                <img src="https://cdn.kesency.com/images/office/office-1.svg" alt="office-1" className="img-fluid rounded shadow" />
                             </div>
                             <div className="col-md-9 col-lg-6 col-xl-5 mb-4 mb-md-5 mb-lg-0 order-lg-2">
                                 <br />

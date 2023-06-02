@@ -199,7 +199,7 @@ export default class Home extends Component {
                                 <div className="grid-item col-md-6 col-lg-4" data-aos="fade-up">
                                     <Link to="#" className="featured-content-block content-block" data-bs-toggle="modal" data-bs-target="#featured-project-modal">
                                         <div className="img-container">
-                                            <img src="https://cdn.WebDevAgency.com/images/featured-projects/featured-project-1.svg" alt="featured1" className="img-fluid" />
+                                            <img src="https://cdn.kesency.com/images/featured-projects/featured-project-1.svg" alt="featured1" className="img-fluid" />
                                         </div>
                                         <h5 className="equalHeight">
                                             <span className="content-block__sub-title">Web Design</span>
@@ -210,7 +210,7 @@ export default class Home extends Component {
                                 <div className="grid-item col-md-6 col-lg-4" data-aos="fade-up">
                                     <Link to="#" className="featured-content-block content-block" data-bs-toggle="modal" data-bs-target="#featured-project-modal">
                                         <div className="img-container">
-                                            <img src="https://cdn.WebDevAgency.com/images/featured-projects/featured-project-2.svg" alt="featured2" className="img-fluid" />
+                                            <img src="https://cdn.kesency.com/images/featured-projects/featured-project-2.svg" alt="featured2" className="img-fluid" />
                                         </div>
                                         <h5 className="equalHeight">
                                             <span className="content-block__sub-title">Web Design</span>
@@ -221,7 +221,7 @@ export default class Home extends Component {
                                 <div className="grid-item col-md-6 col-lg-4" data-aos="fade-up">
                                     <Link to="#" className="featured-content-block content-block" data-bs-toggle="modal" data-bs-target="#featured-project-modal">
                                         <div className="img-container">
-                                            <img src="https://cdn.WebDevAgency.com/images/featured-projects/featured-project-3.svg" alt="featured3" className="img-fluid" />
+                                            <img src="https://cdn.kesency.com/images/featured-projects/featured-project-3.svg" alt="featured3" className="img-fluid" />
                                         </div>
                                         <h5 className="equalHeight">
                                             <span className="content-block__sub-title">App Design</span>
@@ -232,7 +232,7 @@ export default class Home extends Component {
                                 <div className="grid-item col-md-6 col-lg-4" data-aos="fade-up">
                                     <Link to="#" className="featured-content-block content-block" data-bs-toggle="modal" data-bs-target="#featured-project-modal">
                                         <div className="img-container">
-                                            <img src="https://cdn.WebDevAgency.com/images/featured-projects/featured-project-4.svg" alt="featured4" className="img-fluid" />
+                                            <img src="https://cdn.kesency.com/images/featured-projects/featured-project-4.svg" alt="featured4" className="img-fluid" />
                                         </div>
                                         <h5 className="equalHeight">
                                             <span className="content-block__sub-title">Web Design</span>
@@ -244,7 +244,7 @@ export default class Home extends Component {
                                 <div className="grid-item col-md-6 col-lg-4" data-aos="fade-up">
                                     <Link to="#" className="featured-content-block content-block" data-bs-toggle="modal" data-bs-target="#featured-project-modal">
                                         <div className="img-container">
-                                            <img src="https://cdn.WebDevAgency.com/images/featured-projects/featured-project-5.svg" alt="featured5" className="img-fluid" />
+                                            <img src="https://cdn.kesency.com/images/featured-projects/featured-project-5.svg" alt="featured5" className="img-fluid" />
                                         </div>
                                         <h5 className="equalHeight">
                                             <span className="content-block__sub-title">Web Design</span>
@@ -255,7 +255,7 @@ export default class Home extends Component {
                                 <div className="grid-item col-md-6 col-lg-4" data-aos="fade-up">
                                     <Link to="#" className="featured-content-block content-block" data-bs-toggle="modal" data-bs-target="#featured-project-modal">
                                         <div className="img-container">
-                                            <img src="https://cdn.WebDevAgency.com/images/featured-projects/featured-project-6.svg" alt="featured6" className="img-fluid" />
+                                            <img src="https://cdn.kesency.com/images/featured-projects/featured-project-6.svg" alt="featured6" className="img-fluid" />
                                         </div>
                                         <h5 className="equalHeight">
                                             <span className="content-block__sub-title">Web Design</span>
@@ -312,7 +312,7 @@ export default class Home extends Component {
                                 </Slider>
                             </div>
                             <div className="img-container col-lg-6">
-                                <img src="https://cdn.WebDevAgency.com/images/case-study/case-study-slide-1.svg" alt="case-study" className="img-fluid" />
+                                <img src="https://cdn.kesency.com/images/case-study/case-study-slide-1.svg" alt="case-study" className="img-fluid" />
                             </div>
                         </div>
                     </div>
@@ -322,13 +322,13 @@ export default class Home extends Component {
                     <div className="container">
                         <div className="row justify-content-center clients-wrapper">
                             <div className="client" data-aos="zoom-out">
-                                <img src="https://cdn.WebDevAgency.com/images/clients/client-1.webp" alt="client1" />
+                                <img src="https://cdn.kesency.com/images/clients/client-1.webp" alt="client1" />
                             </div>
                             <div className="client" data-aos="zoom-out">
-                                <img src="https://cdn.WebDevAgency.com/images/clients/client-2.webp" alt="client2" />
+                                <img src="https://cdn.kesency.com/images/clients/client-2.webp" alt="client2" />
                             </div>
                             <div className="client" data-aos="zoom-out">
-                                <img src="https://cdn.WebDevAgency.com/images/clients/client-3.webp" alt="client3" />
+                                <img src="https://cdn.kesency.com/images/clients/client-3.webp" alt="client3" />
                             </div>
                         </div>
                     </div>
@@ -379,7 +379,7 @@ export default class Home extends Component {
                                             <div className="carousel-inner">
                                                 <div className="carousel-item active">
                                                     <img className="d-block w-100 img-fluid"
-                                                         src="https://cdn.WebDevAgency.com/images/featured-projects/modal-img-1.svg" alt="modal-1" />
+                                                         src="https://cdn.kesency.com/images/featured-projects/modal-img-1.svg" alt="modal-1" />
                                                 </div>
                                             </div>
                                         </div>

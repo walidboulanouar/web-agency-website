@@ -193,7 +193,7 @@ export default class Header extends Component {
                 <nav className="navbar navbar-expand-lg">
                     <div className="container">
                         <Link className="navbar-brand" to="/">
-                            <img src="https://cdn.WebDevAgency.com/images/brand-logo.svg" alt="Brand Logo" className="img-fluid" width="207" height="87" />
+                            <img src="https://cdn.kesency.com/images/brand-logo.svg" alt="Brand Logo" className="img-fluid" width="207" height="87" />
                         </Link>
                         <button className="navbar-toggler" type="button" onClick={this.handleCustomTogglerIcon} data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
                             aria-label="Toggle navigation">
@@ -336,7 +336,7 @@ export default class Header extends Component {
 
                                                     <p className="address">
                                                         Send us an email
-                                                        <a href="mailto:info@WebDevAgency.com">info@WebDevAgency.com</a>
+                                                        <a href="mailto:info@WebDevAgency.com">walid@agencydev.studio</a>
                                                     </p>
 
                                                     <div className="social-icons-wrapper">

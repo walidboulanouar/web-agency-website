@@ -72,7 +72,7 @@ export default class Portfolio extends Component {
                                         <Link to="#" className="featured-content-block content-block" data-bs-toggle="modal"
                                             data-bs-target="#featured-project-modal">
                                             <div className="img-container">
-                                                <img src="https://cdn.WebDevAgency.com/images/featured-projects/featured/project-featured-1.svg"
+                                                <img src="https://cdn.kesency.com/images/featured-projects/featured/project-featured-1.svg"
                                                     alt="project1" className="img-fluid" />
                                             </div>
                                             <h5 className="equalHeight">
@@ -85,7 +85,7 @@ export default class Portfolio extends Component {
                                         <Link to="#" className="featured-content-block content-block" data-bs-toggle="modal"
                                             data-bs-target="#featured-project-modal">
                                             <div className="img-container">
-                                                <img src="https://cdn.WebDevAgency.com/images/featured-projects/featured/project-featured-2.svg"
+                                                <img src="https://cdn.kesency.com/images/featured-projects/featured/project-featured-2.svg"
                                                     alt="project2" className="img-fluid" />
                                             </div>
                                             <h5 className="equalHeight">
@@ -98,7 +98,7 @@ export default class Portfolio extends Component {
                                         <Link to="#" className="featured-content-block content-block" data-bs-toggle="modal"
                                             data-bs-target="#featured-project-modal">
                                             <div className="img-container">
-                                                <img src="https://cdn.WebDevAgency.com/images/featured-projects/featured/project-featured-3.svg"
+                                                <img src="https://cdn.kesency.com/images/featured-projects/featured/project-featured-3.svg"
                                                     alt="project3" className="img-fluid" />
                                             </div>
                                             <h5 className="equalHeight">
@@ -142,7 +142,7 @@ export default class Portfolio extends Component {
                                         <Link to="#" className="featured-content-block content-block video-popup" data-bs-toggle="modal"
                                             data-bs-target="#featured-project-modal">
                                             <div className="img-container">
-                                                <img src="https://cdn.WebDevAgency.com/images/featured-projects/featured-project-1.svg" alt="project-f-1"
+                                                <img src="https://cdn.kesency.com/images/featured-projects/featured-project-1.svg" alt="project-f-1"
                                                     className="img-fluid" />
                                             </div>
                                             <h5 className="equalHeight">
@@ -155,7 +155,7 @@ export default class Portfolio extends Component {
                                         <Link to="#" className="featured-content-block content-block" data-bs-toggle="modal"
                                             data-bs-target="#featured-project-modal">
                                             <div className="img-container">
-                                                <img src="https://cdn.WebDevAgency.com/images/featured-projects/featured-project-2.svg" alt="project-f-2"
+                                                <img src="https://cdn.kesency.com/images/featured-projects/featured-project-2.svg" alt="project-f-2"
                                                     className="img-fluid" />
                                             </div>
                                             <h5 className="equalHeight">
@@ -168,7 +168,7 @@ export default class Portfolio extends Component {
                                         <Link to="#" className="featured-content-block content-block" data-bs-toggle="modal"
                                             data-bs-target="#featured-project-modal">
                                             <div className="img-container">
-                                                <img src="https://cdn.WebDevAgency.com/images/featured-projects/featured-project-3.svg" alt="project-f-3"
+                                                <img src="https://cdn.kesency.com/images/featured-projects/featured-project-3.svg" alt="project-f-3"
                                                     className="img-fluid" />
                                             </div>
                                             <h5 className="equalHeight">
@@ -181,7 +181,7 @@ export default class Portfolio extends Component {
                                         <Link to="#" className="featured-content-block content-block" data-bs-toggle="modal"
                                             data-bs-target="#featured-project-modal">
                                             <div className="img-container">
-                                                <img src="https://cdn.WebDevAgency.com/images/featured-projects/featured-project-4.svg" alt="project-f-4"
+                                                <img src="https://cdn.kesency.com/images/featured-projects/featured-project-4.svg" alt="project-f-4"
                                                     className="img-fluid" />
                                             </div>
                                             <h5 className="equalHeight">
@@ -195,7 +195,7 @@ export default class Portfolio extends Component {
                                         <Link to="#" className="featured-content-block content-block" data-bs-toggle="modal"
                                             data-bs-target="#featured-project-modal">
                                             <div className="img-container">
-                                                <img src="https://cdn.WebDevAgency.com/images/featured-projects/featured-project-5.svg" alt="project-f-5"
+                                                <img src="https://cdn.kesency.com/images/featured-projects/featured-project-5.svg" alt="project-f-5"
                                                     className="img-fluid" />
                                             </div>
                                             <h5 className="equalHeight">
@@ -209,7 +209,7 @@ export default class Portfolio extends Component {
                                         <Link to="#" className="featured-content-block content-block" data-bs-toggle="modal"
                                             data-bs-target="#featured-project-modal">
                                             <div className="img-container">
-                                                <img src="https://cdn.WebDevAgency.com/images/featured-projects/featured-project-6.svg" alt="project-f-6"
+                                                <img src="https://cdn.kesency.com/images/featured-projects/featured-project-6.svg" alt="project-f-6"
                                                     className="img-fluid" />
                                             </div>
                                             <h5 className="equalHeight">
@@ -269,7 +269,7 @@ export default class Portfolio extends Component {
                                             <div className="carousel-inner">
                                                 <div className="carousel-item active">
                                                     <img className="d-block w-100 img-fluid"
-                                                        src="https://cdn.WebDevAgency.com/images/featured-projects/modal-img-1.svg" alt="modal-1" />
+                                                        src="https://cdn.kesency.com/images/featured-projects/modal-img-1.svg" alt="modal-1" />
                                                 </div>
                                             </div>
                                         </div>

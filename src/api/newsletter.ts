@@ -40,7 +40,7 @@ export async function newsletter(fname: string, email: string): Promise<Newslett
     const adresseIP = data.match(REGEX_IP)![0];
 
     try {
-        const register = await fetch("https://api.WebDevAgency.com/newsletter/register", {
+        const register = await fetch("https://api.kesency.com/newsletter/register", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json",
